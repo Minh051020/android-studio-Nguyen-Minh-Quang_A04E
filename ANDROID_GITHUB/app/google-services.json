@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765831231013",
+    "project_id": "bai01-login-register",
+    "storage_bucket": "bai01-login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765831231013:android:79095195fc0ffd3bea31cc",
+        "android_client_info": {
+          "package_name": "com.example.bai01_login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cKlZHCUpEIdRB2aUBGYrAyFJNKbZP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765831231013:android:77c111061527ab39ea31cc",
+        "android_client_info": {
+          "package_name": "com.example.lab01_login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cKlZHCUpEIdRB2aUBGYrAyFJNKbZP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
